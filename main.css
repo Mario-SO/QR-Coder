@@ -1,0 +1,10 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.contenedorQR {
+	display: flex;
+	justify-content: center;
+	padding: 40px 0;
+	background: transparent;
+}
